@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SAT RESKRIM POLRES KEPL SITARO</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background-color: #2c3e50; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #34495e; display: flex; flex-wrap: wrap; }
+    nav a { padding: 14px 20px; display: block; color: white; text-decoration: none; }
+    nav a:hover { background-color: #1abc9c; }
+    section { padding: 20px; }
+    footer { background-color: #2c3e50; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>SAT RESKRIM POLRES KEPL SITARO</h1>
+</header>
+
+<nav>
+  <a href="#beranda">Beranda</a>
+  <a href="#tentang">Tentang</a>
+  <a href="#kontak">Kontak</a>
+  <a href="#galeri">Galeri</a>
+  <a href="#program">Program Kreatif</a>
+  <a href="#pelayanan">Pelayanan Reskrim</a>
+  <a href="#tipikor">Unit Tipikor</a>
+  <a href="#tipidter">Unit Tipidter</a>
+  <a href="#ppa">Unit PPA</a>
+  <a href="#tipiter">Unit Tipiter</a>
+  <a href="#identifikasi">Unit Identifikasi</a>
+</nav>
+
+<section id="beranda">
+  <h2>Beranda</h2>
+  <p>Selamat datang di website resmi SAT RESKRIM POLRES KEPULAUAN SITARO.</p>
+</section>
+
+<section id="tentang">
+  <h2>Tentang</h2>
+  <p>Satuan Reserse Kriminal bertugas menangani tindak pidana umum dan khusus di wilayah hukum Polres Sitaro.</p>
+</section>
+
+<section id="kontak">
+  <h2>Kontak</h2>
+  <p>Email: satreskrim@polri.go.id<br> Telepon: (0432) XXXXXXX</p>
+</section>
+
+<section id="galeri">
+  <h2>Galeri</h2>
+  <p>(Tambahkan foto kegiatan di sini)</p>
+</section>
+
+<section id="program">
+  <h2>Program Kreatif</h2>
+  <p>Kegiatan dan inovasi dari SAT RESKRIM dalam pelayanan dan penegakan hukum.</p>
+</section>
+
+<section id="pelayanan">
+  <h2>Pelayanan Reskrim</h2>
+  <p>Pelayanan pengaduan masyarakat, penyidikan, dan informasi hukum.</p>
+</section>
+
+<section id="tipikor">
+  <h2>Unit Tipikor</h2>
+  <p>Menangani tindak pidana korupsi dan pelanggaran keuangan negara.</p>
+</section>
+
+<section id="tipidter">
+  <h2>Unit Tipidter</h2>
+  <p>Menangani tindak pidana tertentu sesuai ketentuan undang-undang khusus.</p>
+</section>
+
+<section id="ppa">
+  <h2>Unit PPA</h2>
+  <p>Unit Perlindungan Perempuan dan Anak, fokus pada kasus kekerasan dan pelecehan.</p>
+</section>
+
+<section id="tipiter">
+  <h2>Unit Tipiter</h2>
+  <p>Menangani kejahatan ringan atau pelanggaran administratif tertentu.</p>
+</section>
+
+<section id="identifikasi">
+  <h2>Unit Identifikasi</h2>
+  <p>Melakukan identifikasi forensik termasuk sidik jari, olah TKP, dan dokumentasi kriminal.</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 SAT RESKRIM POLRES KEPL SITARO</p>
+</footer>
+
+</body>
+</html>
